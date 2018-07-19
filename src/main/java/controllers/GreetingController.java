@@ -1,5 +1,6 @@
-package hello;
+package controllers;
 
+import models.Greeting;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.concurrent.atomic.AtomicLong;
