@@ -1,8 +1,5 @@
 package hello;
 
-/**
- * Created by jacopogobbi on 06/05/2017.
- */
 public class Greeting {
     private final long id;
     private final String content;
