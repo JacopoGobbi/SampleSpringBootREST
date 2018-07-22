@@ -1,4 +1,4 @@
-package models;
+package com.jacopogobbi.samplespring.models;
 
 public class Greeting {
     private final long id;
